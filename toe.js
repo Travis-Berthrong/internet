@@ -14,7 +14,7 @@ canvas.height = complexity * size;
 let ctx = canvas.getContext("2d");
 let win = false;
 let done = false;
-let MLG = new Audio("MLGHORN.mp3");
+let MLG = new Audio("MLG SOUND EFFECT AIR HORNS.mp3");
 
 let toeField = new Array(complexity);
 for (let x = 0; x < toeField.length; x++) {
